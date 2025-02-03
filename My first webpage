@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>webpage</title>
+</head>
+<body>
+    <marquee>WELCOME TO MY FIRST WEB PAGE</marquee>
+<centre>
+<h1>OXFORD UNIVERSITY</h1>
+
+
+</centre>
+
+<h3>Student Information</h3>
+    
+      
+            <table border="5" width = "100">
+                <thead>
+                    <tr>
+                        <th>Student ID</th>
+                        <th>Name</th>
+                        <th>Course</th>
+                        <th>Age</th>
+                        <th>Grade</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>101</td>
+                        <td>Rajesh</td>
+                        <td>BCA</td>
+                        <td>20</td>
+                        <td>A</td>
+                    </tr>
+                    <tr>
+                        <td>102</td>
+                        <td>Aman</td>
+                        <td>MCA</td>
+                        <td>22</td>
+                        <td>B</td>
+                    </tr>
+                    <tr>
+                        <td>103</td>
+                        <td>Kushesh</td>
+                        <td>B.Com</td>
+                        <td>21</td>
+                        <td>A</td>
+                    </tr>
+                    <tr>
+                        <td>104</td>
+                        <td>Sumit</td>
+                        <td>M.Com</td>
+                        <td>23</td>
+                        <td>B+</td>
+                    </tr>
+                </tbody>
+            </table>
+
+<form>
+        <h2>Form</h2>
+    
+        <form>
+            <label for="id">ID:</label><br>
+            <input type="text" id="id" name="id"><br>
+            <label for="fname">First name:</label><br>
+            <input type="text" id="fname" name="fname"><br>
+            <label for="lname">Last name:</label><br>
+            <input type="text" id="lname" name="lname">
+            <br><label for="course">course:</label></form>
+            <input type="text" id="course" name="course">
+        </b><br>
+            <button>Submit details</button>
+          </form>
+     <h2>College course Details</h2>
+    <ol>BCA<br>
+        MCA<br>
+        BBA<br>
+        MBA<br>
+        BTECH<br>
+        MTECH</ol>
+     
+    <h3>BCA</h3>
+    <h5>Bachelor of Computer Application</h5>
+    <h5><li>Fees:50000</li></h5>
+   <h5><li>Duration:3 yrs</li></h5>
+
+   <h3>MCA</h3>
+   <h5>Master of Computer Application</h5>
+    <h5><li>Fees:50000</li></h5>
+   <h5><li>Duration:3 yrs</li></h5>
+
+   <h3>BBA</h3>
+   <h5>Bachelor of Business Admistration</h5>
+    <h5><li>Fees:50000</li></h5>
+   <h5><li>Duration:3 yrs</li></h5>
+
+   <h3>MBA</h3>
+   <h5>Master of Business Admistration</h5>
+   <h5></h5>
+    <h5><li>Fees:50000</li></h5>
+   <h5><li>Duration:3 yrs</li></h5>
+
+   <h3>BTECH</h3>
+   <h5>Bachelor of Technology</h5>
+     <h5><li>Fees:100000</li></h5>
+    <h5><li>Duration:4 yrs</li></h5>4
+    
+    <h3>MTECH</h3>
+    <h5>Master of Technology</h5>
+     <h5><li>Fees:100000</li></h5>
+    <h5><li>Duration:4 yrs</li></h5>
+
+    <form>
+        <h2>Contact Us</h2>
+    
+        <form>
+            <label for="fname">Full Name:</label><br>
+            <input type="text" id="fname" name="fname"><br>
+            <label for="Phone">Phone No:</label><br>
+            <input type="text" id="phone" name="phone">
+            <br><label for="Email">Email:</label></form>
+            <input type="text" id="Email" name="Email">
+        </b><br>
+            <button>Submit</button>
+          </form>
+    
+    </html>
